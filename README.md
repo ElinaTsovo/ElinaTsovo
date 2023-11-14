@@ -1,4 +1,5 @@
-### Olá! Eu sou  ElinaTsovo 👋
+### Hello, Welcome to my github!👋🏿
+## I'm Elina Tsovo 👩🏿
 
 
 <!--
